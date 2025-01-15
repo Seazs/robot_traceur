@@ -1,0 +1,6 @@
+{
+    "port": "COM1",
+    "configuration": "mode=on",
+    "board": "arduino:megaavr:nona4809",
+    "sketch": "robot_traceur.ino"
+}
